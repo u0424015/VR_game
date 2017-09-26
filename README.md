@@ -8,3 +8,4 @@
 ## 初步做法：利用Aframa建立遊戲場僅並加入感是設備偵測手部角度，計算飛行方向。
 
 ![NKFUST](1234.jpg)
+![NKFUST](image1.jpg)
